@@ -36,7 +36,7 @@ global.chisato = 'https://telegra.ph/file/ba45593f90a12008abfb4.jpg'
 global.qr = 'https://telegra.ph/file/21e252f71926f7fa0c931.jpg' //Buat Ganti Thumb Qr Gopay Lu
 global.logotime = 'https://telegra.ph/file/8e9bf0c5db8ec095a85bc.jpg' //Jan Diubah Eror Nanges
 global.sig = 'https://instagram.com/ikykunnnn'
-global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
+global.syt = 'https://www.youtube.com/@RIZKIIRFAN'
 global.sgh = 'https://github.com/rizkiwibu'
 global.sgc = 'https://chat.whatsapp.com/BWqK0cDNFqXFqwb8hGwbBU'
 global.swa = 'wa.me/6285878836361'
@@ -47,7 +47,7 @@ global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
-global.psaweria = 'https://bit.ly/3eggcxd'
+global.psaweria = '-'
 /*InfoBot*/
 global.nomorbot = '-'
 global.nomorown = '6285878836361'
