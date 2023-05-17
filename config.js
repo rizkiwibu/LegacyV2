@@ -35,11 +35,11 @@ global.namesesi = 'rullzy.data'//.json
 global.chisato = 'https://telegra.ph/file/ba45593f90a12008abfb4.jpg'
 global.qr = 'https://telegra.ph/file/21e252f71926f7fa0c931.jpg' //Buat Ganti Thumb Qr Gopay Lu
 global.logotime = 'https://telegra.ph/file/8e9bf0c5db8ec095a85bc.jpg' //Jan Diubah Eror Nanges
-global.sig = 'https://instagram.com/khoirul36_'
+global.sig = 'https://instagram.com/ikykunnnn'
 global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
-global.sgh = 'https://github.com/Carisendiri:v'
-global.sgc = 'https://chat.whatsapp.com/KOxDMDVKO8h9pS8abkaax6'
-global.swa = 'wa.me/6287753812675'
+global.sgh = 'https://github.com/rizkiwibu'
+global.sgc = 'https://chat.whatsapp.com/BWqK0cDNFqXFqwb8hGwbBU'
+global.swa = 'wa.me/6285878836361'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.pdana = '-'
@@ -50,13 +50,13 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://bit.ly/3eggcxd'
 /*InfoBot*/
 global.nomorbot = '-'
-global.nomorown = '6287753812675'
-global.namebot = 'Legacy Bot'
-global.nameown = 'KhrlMstfa'
+global.nomorown = '6285878836361'
+global.namebot = 'iky Bot'
+global.nameown = 'rizki'
 global.rul = 'https://telegra.ph/file/0a4fa7e5726f921ac52b7.jpg' //Jangan Diapus Ya Kids Nanti Eror Nangis Haha
 /*StaffBot*/
 global.owner = [
-  ['6287753812675', 'Rull', 'true']
+  ['6285878836361', 'rizki', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
